@@ -28,6 +28,11 @@ Numerical methods (Runge-Kutta, `odeint` solver) were used to solve differential
 * Developed algorithms for model parameter fitting based on retrospective (historical) data.
 * Conducted error analysis and model verification.
 
+### 4. Optimization (Genetic Algorithms)
+Implementation of evolutionary algorithms for finding global extrema of complex functions:
+* **Booth Function:** Optimization using standard selection, crossover, and mutation.
+* **Three-Hump Camel Function:** Advanced GA with **elitism** and **adaptive mutation** strategies.
+
 ## 🛠 Technologies
 
 All models are implemented in **Python**.
